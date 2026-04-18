@@ -70,10 +70,31 @@ body {
   width: 250px;
 }
 
+.section {
+  margin-bottom: 60px;
+}
+
 /* ABOUT */
 .about {
   padding: 60px 20px;
   text-align: center;
+}
+
+.about-me {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.me {
+  background: #020617;
+  text-align: left;
+  padding: 20px;
+  max-width: 400px;
+  border-radius: 10px;
+  transition: 0.3s;
 }
 
 /* PROJECTS */
