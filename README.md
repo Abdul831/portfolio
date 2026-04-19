@@ -27,5 +27,6 @@ An interactive web-based escape room experience.
 ---
 
 ## 📫 Contact
+Abdul Rahaman Nantogmah Salifu
 - Email: salifuabdulrahaman69@gmail.com  
 - LinkedIn: www.linkedin.com/in/abdul-rahaman-nantogmah-salifu-733481247
